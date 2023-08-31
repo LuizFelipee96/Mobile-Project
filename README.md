@@ -1,10 +1,11 @@
-Projeto Mobile quarto periodo.
+# Projeto Mobile quarto periodo.
 
-Equipe:
-Eric Dennis de Freitas Carvalho
-Erick Goldberg Bezerra
-João Francisco de Albuquerque Veiga Moraes
-Luiz Felipe Dias da Silva
-Rafael Josivaldo dos Santos
-Thomas Sousa Hinders.
+## Equipe:
+
+1. Eric Dennis de Freitas Carvalho
+2. Erick Goldberg Bezerra
+3. João Francisco de Albuquerque Veiga Moraes
+4. Luiz Felipe Dias da Silva
+5. Rafael Josivaldo dos Santos
+6. Thomas Sousa Hinders
 
